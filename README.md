@@ -1,7 +1,6 @@
 <h1 align="center">👋 Hello, I'm Adedamola Omoniyi!</h1>
 <p align="center">
   <b>17 years old | Full-Time Student | Aspiring Software Engineer</b><br>
-  <b>Completing A-levels in Math, Further Math, Physics and Computer Science</b>
 </p>
 
 ---
@@ -35,14 +34,14 @@
 ---
 
 ### 🎓 Currently
-- **Full-Time Education**: Pursuing A-Levels in various subjects while honing programming skills.
+- **Full-Time Education**: Pursuing A-Levels in Math, Further Math, Physics and Computer Science.
 - **Current Focus**: Android development, mastering data structures and algorithms, and learning C++.
 
 ---
 
 ### 🌍 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/AdedamolaOmoniyi)
-[![Email](https://img.shields.io/badge/LinkedIn-green?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.adedamolaomoniyi@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-green?style=for-the-badge&logo=Gmail&logoColor=white)](https://www.adedamolaomoniyi@gmail.com)
 
 ---
 
