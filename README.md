@@ -40,7 +40,7 @@
 ---
 
 ### 🌍 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/AdedamolaOmoniyi)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Damola-Omoniyi)
 [![Email](https://img.shields.io/badge/Gmail-green?style=for-the-badge&logo=Gmail&logoColor=white)](https://www.adedamolaomoniyi@gmail.com)
 
 ---
