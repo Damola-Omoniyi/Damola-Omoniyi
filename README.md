@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Adedamola Omoniyi!</h1>
+<h1 align="center">Adedamola Omoniyi!</h1>
 <p align="center">
   <b>17 years old | Full-Time Student | Aspiring Software Engineer</b><br>
 </p>
