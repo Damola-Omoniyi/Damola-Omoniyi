@@ -40,8 +40,7 @@
 ---
 
 ### 🌍 Connect with Me
-[![Email](https://img.shields.io/badge/Gmail-green?style=for-the-badge&logo=Gmail&logoColor=white)] 
-adedamolaomoniyi99@gmail.com
+Email: adedamolaomoniyiy99@gmail.com
 
 ---
 
