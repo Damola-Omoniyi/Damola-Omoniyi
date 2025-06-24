@@ -1,0 +1,160 @@
+/*vggg*/
+body{
+    color: #00FFFF; /* A sort of neon light blue colour*/
+    background-color: #121212; /* very dark grey*/
+    font-family: Trebuchet MS, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* suggestions- these may be removed later on*/
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* class for the header*/
+
+.nav-header{
+    display: flex;
+    color: #00FFFF;
+    font-size:25px;
+    background-color: black;
+    justify-content: center;
+    height : 50px;
+    align-items: center;
+  border-radius: 10px;
+
+
+}
+
+.nav-header a{
+    color: #00FFFF;
+    text-decoration: none;
+    margin: 0 25px;
+    font-weight: bold;
+}
+
+.nav-header a:hover{
+    text-decoration: underline;
+}
+/* Code for header ends here*/
+
+/*code for intro section*/
+.intro{
+    margin: 50px;
+
+}
+
+.intro h1{
+    font-size: 100px;
+}
+
+.intro p{
+font-size: 25px;
+}
+
+/*End of code for intro section*/
+
+/*code for Tech stack section*/
+.tech-stack{
+
+  text-align: center;
+   margin: 50px;
+      background-color: black; /* temporary may remove*/
+  background-color: rgba(0, 255, 255, 0.1);
+
+  border-radius: 25px;
+
+
+}
+
+.tech-stack h1{
+    font-size:75px;
+
+}
+.tech-stack img {
+  filter: invert(1) sepia(1) saturate(5) hue-rotate(180deg);
+  height:100px;
+  width:100px;
+}
+
+.tech-stack ul{
+    list-style-type: none;
+    display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  justify-items: center;
+  text-align: center;
+    font-size:30px;
+    font-weight: bold;
+
+
+}
+
+/*End of code for Tech stack section*/
+
+/*Projects*/
+.projects{
+    margin: 0px;
+    padding: 0;
+}
+.projects ul{
+    list-style-type: none;
+     margin: 0px;
+    padding: 0;
+
+}
+.projects li{
+ margin: 0;
+  padding: 20px;
+
+}
+.projects h1{
+    font-size:75px;
+    margin: 50px;
+}
+
+.projects img{
+    width: 1000px;
+    height: auto;
+    margin: 0px;
+    padding: 25px;
+  border-radius: 45px;
+
+
+}
+
+.project-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background-color: rgba(0, 255, 255, 0.1);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+#project1 {
+display: flex;
+  flex-direction: row;
+
+}
+
+#project2 {
+display: flex;
+  flex-direction: row-reverse;
+
+}
+
+#project3 {
+display: flex;
+  flex-direction: row;
+
+
+}
+/*End of Projects*/
